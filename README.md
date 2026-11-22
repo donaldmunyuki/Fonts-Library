@@ -5,3 +5,4 @@ This font directory application works for foundries, design teams, and typograph
 - Foundries showcasing typeface catalogs to licensing clients.
 - Design teams organizing approved fonts across projects.
 - Agencies presenting curated type options to stakeholders.
+- Building a searchable typography resource site.
