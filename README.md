@@ -3,3 +3,4 @@ This font directory application works for foundries, design teams, and typograph
 
 ### Designed for
 - Foundries showcasing typeface catalogs to licensing clients.
+- Design teams organizing approved fonts across projects.
