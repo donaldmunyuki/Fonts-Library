@@ -7,4 +7,4 @@ This font directory application works for foundries, design teams, and typograph
 - Agencies presenting curated type options to stakeholders.
 - Building a searchable typography resource site.
 
-## Features
+## Features & capabilities
