@@ -8,3 +8,4 @@ This font directory application works for foundries, design teams, and typograph
 - Building a searchable typography resource site.
 
 ## Features & capabilities
+- Live Specimen Rendering:
