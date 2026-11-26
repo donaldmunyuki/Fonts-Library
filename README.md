@@ -9,3 +9,4 @@ This font directory application works for foundries, design teams, and typograph
 
 ## Features & capabilities
 - Live Specimen Rendering: Each font card and detail page loads the actual typeface from Google Fonts, so visitors see real letterforms instead of static screenshots.
+- Weight and Size Controls:
